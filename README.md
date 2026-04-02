@@ -81,6 +81,12 @@ http://127.0.0.1:8000
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch Demo](thumbnailpng.png)](Working%20video.mp4)
+
+---
+
 ## 👨‍💻 Author
 
 Durgesh Nandan
